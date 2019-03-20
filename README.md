@@ -18,8 +18,8 @@ There is also a _rar_ file containing the code in java.
 
 ## Authors
 
-|Name               | Number    | | Grade  | Profile
-| ------------- |:-------------:| --------:|
-|João Santos       | 201504013 | 16.5 | [bernardoleite](https://github.com/bernardoleite)
-|Vítor Magalhães  | 201506448 | 16.5 | [LastLombax](https://github.com/LastLombax)
+| Name            | Number    | Grade | Profile                                           |
+|-----------------|-----------|-------|---------------------------------------------------|
+| Bernardo Leite  | 201404464 | 16.5  | [bernardoleite](https://github.com/bernardoleite) |
+| Vítor Magalhães | 201503447 | 16.5  | [LastLombax](https://github.com/LastLombax)       |
 
